@@ -1,0 +1,69 @@
+.mySlides {display:none;}
+.grade
+{
+    
+    background: linear-gradient(to bottom, #336699 0%, #ccccff 100%)
+}
+.grade1
+{
+    
+    background: linear-gradient(to right, #00ff99 0%, #3399ff 100%);
+}
+.grade1-hover:hover
+{
+    
+     background: linear-gradient(to left, #00ff99 0%, #3399ff 100%);
+}
+.height
+{
+height: 50px;
+}
+.height-panel
+{
+max-height: 500px;
+}
+.button{border-right:1px solid #ccc;display:inline-block;
+	padding:0px 7px;vertical-align:middle;overflow:hidden;
+	text-decoration:none;color:inherit;background-color:inherit;
+	text-align:center;cursor:pointer;white-space:nowrap}
+.button1{border:none;display:inline-block;
+	padding:2px 7px;vertical-align:middle;overflow:hidden;
+	text-decoration:none;color:inherit;background-color:inherit;
+	text-align:center;cursor:pointer;white-space:nowrap}
+	
+
+.hover:hover
+{text-decoration:none;color:red;
+}
+.content{
+
+  bottom: 0;
+  background: rgb(0, 0, 0); /* Fallback color */
+  background: rgb(204,204,255); /* Black background with 0.5 opacity */
+  color: #000;
+  width: 100%;
+  padding: 20px;
+ 
+}
+.w3-panelm{padding:0.01em 16px}.w3-panelm{margin-top:16px;margin-bottom:16px}
+
+ .w3-bar-itemm{padding:0px 16px;float:left;width:auto;border:none;display:block;outline:0}
+ .w3-bar-item{padding:8px 16px;float:left;width:auto;border:none;display:block;outline:0}
+ 
+ .contenth{
+  bottom: 0;
+  background: rgb(0, 0, 0); /* Fallback color */
+  background: rgba(229, 231, 233, 0.5); /* Black background with 0.5 opacity */
+  color: #000;
+  width: 100%;
+  padding: 20px;
+}
+.w3-bordertable tr,td,th{border:1px solid #000 ;height: 20PX;width: 30PX;}
+
+.my-display-proper{position:absolute;left:0;right:0;top:0 ;}
+.w3-table td,.w3-table th,.w3-table-all td,.w3-table-all th{padding:8px 8px;display:table-cell;text-align:left;vertical-align:top}
+
+.w3-border-bottomm{border-bottom:2px dotted #D3D3D3}
+.w3-border-bottom1{border-bottom:2px solid #D3D3D3}
+.w3-lime,.w3-hover-lime:hover{color:#fff!important;background-color:#cddc39!important}
+.w3-panell{margin-top:0px;}
